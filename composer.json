@@ -13,5 +13,12 @@
         "psr-4": {
             "Hongyukeji\\LaravelSimditor\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hongyukeji\\LaravelSimditor\\SimditorServiceProvider"
+            ]
+        }
     }
 }

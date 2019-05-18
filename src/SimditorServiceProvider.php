@@ -15,7 +15,6 @@
 
 namespace Hongyukeji\LaravelSimditor;
 
-use Illuminate\Support\Facades\App;
 use Illuminate\Support\ServiceProvider;
 
 class SimditorServiceProvider extends ServiceProvider
