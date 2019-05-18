@@ -18,7 +18,7 @@ $ php artisan vendor:publish --provider='Hongyukeji\LaravelSimditor\SimditorServ
 - in your <head> block just put
 
 ```
-@include('Simditor::assets');
+@include('Simditor::assets')
 ```
 
 ```html
