@@ -60,7 +60,7 @@ $ php artisan vendor:publish --provider='Hongyukeji\LaravelSimditor\SimditorServ
         textarea: $('#editor'),
       });
     });
-  </script>
+</script>
 ```
 
 - Simditor官方文档: [https://simditor.tower.im/docs/doc-usage.html](https://simditor.tower.im/docs/doc-usage.html)
