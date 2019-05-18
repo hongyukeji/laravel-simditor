@@ -1,0 +1,17 @@
+{
+    "name": "hongyukeji/laravel-simditor",
+    "description": "laravel simditor editor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shadow",
+            "email": "admin@hongyuvip.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hongyukeji\\LaravelSimditor\\": "src"
+        }
+    }
+}
