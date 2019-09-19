@@ -10,7 +10,7 @@ $ composer require hongyukeji/laravel-simditor
 ```
 
 ```shell
-$ php artisan vendor:publish --provider='Hongyukeji\LaravelSimditor\SimditorServiceProvider'
+$ php artisan vendor:publish --provider="Hongyukeji\LaravelSimditor\SimditorServiceProvider"
 ```
 
 ## Usage
